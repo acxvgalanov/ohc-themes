@@ -1,7 +1,6 @@
 {
 	"mainEntities": [
-		"listing",
-		"property"
+		"listing"
 	],
 	"themes": [
 		{
@@ -9,10 +8,5 @@
 			"mainEntity": "listing",
 			"themePath": "/edge/listing_theme_with_availabilities"
 		},
-		{
-			"themeName": "Test theme Listing with Availabilities",
-			"mainEntity": "property",
-			"themePath": "/edge/testing_the_upload_of_theme_anton"
-		}
 	]
 }
