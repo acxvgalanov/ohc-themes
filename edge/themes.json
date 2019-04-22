@@ -7,6 +7,11 @@
 			"themeName": "Listing Theme with Availabilities",
 			"mainEntity": "listing",
 			"themePath": "/edge/listing_theme_with_availabilities"
+		},
+		{
+			"themeName": "Listing Presentation",
+			"mainEntity": "listing",
+			"themePath": "/edge/listing_presentation"
 		}
 	]
 }
