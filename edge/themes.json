@@ -7,6 +7,11 @@
 			"themeName": "Listing Theme with Availabilities",
 			"mainEntity": "listing",
 			"themePath": "/edge/listing_theme_with_availabilities"
+		},
+		{
+			"themeName": "Availabilities Grid by Listings",
+			"mainEntity": "listing",
+			"themePath": "/edge/availabilities_grid_by_listings"
 		}
 	]
 }
