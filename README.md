@@ -1,1 +1,1 @@
-# ohe-templates
+# ohc-themes
