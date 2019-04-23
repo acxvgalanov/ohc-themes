@@ -15,6 +15,11 @@
       "themeName": "Availabilities Grid by Listings",
       "mainEntity": "listing",
       "themePath": "/edge/availabilities_grid_by_listings"
-    }
+	},
+	{
+		"themeName": "Availabilities Cards by Listings",
+		"mainEntity": "listing",
+		"themePath": "/edge/availabilities_cards_by_listings"
+	  }
   ]
 }
