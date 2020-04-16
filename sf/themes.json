@@ -1,4 +1,54 @@
 {
-	"mainEntities": [],
-	"themes": []
+  "mainEntities": [
+    "ascendix__Property__c",
+    "ascendix__Listing__c",
+    "ascendix__Availability__c"
+  ],
+  "themes": [
+    {
+      "themeName": "Land Property Activity Report",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/land_property_activity_report"
+    },
+    {
+      "themeName": "Land Property Flyer",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/land_property_flyer"
+    },
+    {
+      "themeName": "Lease Listing Report(Grey)",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/lease_listing_report_grey"
+    },
+    {
+      "themeName": "Lease Listing Report(Orange)",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/lease_listing_report_orange"
+    },
+    {
+      "themeName": "Property Flyer",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/property_flyer"
+    },
+    {
+      "themeName": "Property Listing Report",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/property_listing_report"
+    },
+    {
+      "themeName": "Property Summary Report",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/property_summary_report"
+    },
+    {
+      "themeName": "Property Tour Book Grid(a)",
+      "mainEntity": "ascendix__Availability__c",
+      "themePath": "/sf/property_tour_book_grid_a"
+    },
+    {
+      "themeName": "Sale Listing Activity Report",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/sale_listing_activity_report"
+    }
+  ]
 }
