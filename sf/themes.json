@@ -33,7 +33,11 @@
       "themeName": "Property Listing Report",
       "mainEntity": "ascendix__Listing__c",
       "themePath": "/sf/property_listing_report"
+    },
+    {
+      "themeName": "Property Summary Report",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/property_summary_report"
     }
-
   ]
 }
