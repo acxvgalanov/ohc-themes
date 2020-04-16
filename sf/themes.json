@@ -1,4 +1,12 @@
 {
-	"mainEntities": [],
-	"themes": []
+  "mainEntities": [
+    "ascendix__Property__c"
+  ],
+  "themes": [
+    {
+      "themeName": "Land Property Activity Report",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/land_property_activity_report"
+    }
+  ]
 }
