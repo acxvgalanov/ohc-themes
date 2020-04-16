@@ -23,6 +23,11 @@
       "themeName": "Lease Listing Report(Orange)",
       "mainEntity": "ascendix__Listing__c",
       "themePath": "/sf/lease_listing_report_orange"
+    },
+    {
+      "themeName": "Property Flyer",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/property_flyer"
     }
   ]
 }
