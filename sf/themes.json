@@ -7,6 +7,11 @@
       "themeName": "Land Property Activity Report",
       "mainEntity": "ascendix__Property__c",
       "themePath": "/sf/land_property_activity_report"
+    },
+    {
+      "themeName": "Land Property Flyer",
+      "mainEntity": "ascendix__Property__c",
+      "themePath": "/sf/land_property_flyer"
     }
   ]
 }
