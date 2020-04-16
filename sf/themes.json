@@ -18,6 +18,11 @@
       "themeName": "Lease Listing Report(Grey)",
       "mainEntity": "ascendix__Listing__c",
       "themePath": "/sf/lease_listing_report_grey"
+    },
+    {
+      "themeName": "Lease Listing Report(Orange)",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/lease_listing_report_orange"
     }
   ]
 }
