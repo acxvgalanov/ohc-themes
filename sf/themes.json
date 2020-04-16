@@ -1,6 +1,7 @@
 {
   "mainEntities": [
-    "ascendix__Property__c"
+    "ascendix__Property__c",
+    "ascendix__Listing__c"
   ],
   "themes": [
     {
@@ -12,6 +13,11 @@
       "themeName": "Land Property Flyer",
       "mainEntity": "ascendix__Property__c",
       "themePath": "/sf/land_property_flyer"
+    },
+    {
+      "themeName": "Lease Listing Report(Grey)",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/lease_listing_report_grey"
     }
   ]
 }
