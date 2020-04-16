@@ -28,6 +28,12 @@
       "themeName": "Property Flyer",
       "mainEntity": "ascendix__Property__c",
       "themePath": "/sf/property_flyer"
+    },
+    {
+      "themeName": "Property Listing Report",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/property_listing_report"
     }
+
   ]
 }
