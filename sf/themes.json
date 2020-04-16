@@ -44,6 +44,11 @@
       "themeName": "Property Tour Book Grid(a)",
       "mainEntity": "ascendix__Availability__c",
       "themePath": "/sf/property_tour_book_grid_a"
+    },
+    {
+      "themeName": "Sale Listing Activity Report",
+      "mainEntity": "ascendix__Listing__c",
+      "themePath": "/sf/sale_listing_activity_report"
     }
   ]
 }
